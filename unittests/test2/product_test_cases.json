@@ -1,0 +1,399 @@
+[
+  {
+    "Name": "Gexa BOGO 12",
+    "Charges": [
+      {
+        "Name": "Monthly Service Fee",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Max": 999,
+            "Amount": 9.95,
+            "Compound": false,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$9.95 per billing cycle for usage <= 999 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Amount": 0.1756,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1756 per kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge BOGO Credit",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Amount": -0.0878,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "50% per billing cycle"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": false
+    },
+    "TDU": {
+      "Meter_Charge": 5.47,
+      "Variable_Charge": 0.0387
+    },
+    "Price_500": 0.157,
+    "Price_1000": 0.132,
+    "Price_2000": 0.129
+  },
+  {
+    "Name": "Gexa Simple Lite 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Max": 1000,
+            "Amount": 89,
+            "Compound": true,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$89 per billing cycle for usage <= 1,000 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 1001,
+            "Amount": 0.129,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1290 per kWh for usage >= 1,001 kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": true
+    },
+    "TDU": {
+      "Meter_Charge": 3.45,
+      "Variable_Charge": 0.0368
+    },
+    "Price_500": 0.178,
+    "Price_1000": 0.089,
+    "Price_2000": 0.109
+  },
+  {
+    "Name": "Gexa Simple 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Max": 2000,
+            "Amount": 175,
+            "Compound": true,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$175 per billing cycle for usage <= 2,000 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 2001,
+            "Amount": 0.129,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1290 per kWh for usage >= 2,001 kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": true
+    },
+    "TDU": {
+      "Meter_Charge": 3.45,
+      "Variable_Charge": 0.0368
+    },
+    "Price_500": 0.35,
+    "Price_1000": 0.175,
+    "Price_2000": 0.088
+  },
+  {
+    "Name": "Gexa Supreme Plus 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Max": 500,
+            "Amount": 0.149,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1490 per kWh for usage <= 500 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 501,
+            "Max": 1000,
+            "Amount": 0.139,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1390 per kWh for usage (501-1,000) kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 1001,
+            "Max": 2000,
+            "Amount": 0.142,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1420 per kWh for usage (1,001-2,000) kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 2001,
+            "Amount": 0.127,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1270 per kWh for usage >= 2,001 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Residential Usage Credit",
+        "Cost_Components": [
+          {
+            "Min": 1000,
+            "Max": 2000,
+            "Amount": -85,
+            "Compound": false,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$85 per billing cycle for usage (1,000-2,000) kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": false
+    },
+    "TDU": {
+      "Meter_Charge": 3.45,
+      "Variable_Charge": 0.0368
+    },
+    "Price_500": 0.193,
+    "Price_1000": 0.099,
+    "Price_2000": 0.139
+  },
+  {
+    "Name": "Smart Choice Value 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Max": 700,
+            "Amount": 79,
+            "Compound": false,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$79 per billing cycle for usage <= 700 kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 701,
+            "Max": 1200,
+            "Amount": 0.049,
+            "Compound": false,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.0490 per kWh for usage (701-1,200) kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 1201,
+            "Max": 1800,
+            "Amount": 0.129,
+            "Compound": false,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1290 per kWh for usage (1,201-1,800) kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 1801,
+            "Amount": 0.119,
+            "Compound": false,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.1190 per kWh for usage >= 1,801 kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": true
+    },
+    "TDU": {
+      "Meter_Charge": 3.45,
+      "Variable_Charge": 0.0368
+    },
+    "Price_500": 0.158,
+    "Price_1000": 0.049,
+    "Price_2000": 0.119
+  },
+  {
+    "Name": "Gexa Choice Freedom 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Amount": 0.05387,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.0539 per kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": false
+    },
+    "TDU": {
+      "Meter_Charge": 8.65,
+      "Variable_Charge": 0.03278
+    },
+    "Price_500": 0.104,
+    "Price_1000": 0.095,
+    "Price_2000": 0.091
+  },
+  {
+    "Name": "Gexa Choice Select 12",
+    "Charges": [
+      {
+        "Name": "Energy Charge",
+        "Cost_Components": [
+          {
+            "Min": 0,
+            "Amount": 0.091,
+            "Compound": true,
+            "Multiplicative": true,
+            "Expected": {
+              "English": "$0.0910 per kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Residential Usage Credit",
+        "Cost_Components": [
+          {
+            "Min": 1000,
+            "Max": 1500,
+            "Amount": -90,
+            "Compound": false,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$90 per billing cycle for usage (1,000-1,500) kWh"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Residential Usage Credit",
+        "Cost_Components": [
+          {
+            "Min": 1501,
+            "Max": 2000,
+            "Amount": -40,
+            "Compound": false,
+            "Multiplicative": false,
+            "Expected": {
+              "English": "$40 per billing cycle for usage (1,501-2,000) kWh"
+            }
+          }
+        ]
+      }
+    ],
+    "Product": {
+      "Is_Bundled": false
+    },
+    "TDU": {
+      "Meter_Charge": 5.47,
+      "Variable_Charge": 0.0425
+    },
+    "Price_500": 0.144,
+    "Price_1000": 0.049,
+    "Price_2000": 0.116
+  }
+]

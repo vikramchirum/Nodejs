@@ -1,0 +1,2114 @@
+[
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": "CHOICERenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": "CHOICERenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": "Level_1"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": "PRIMERenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": "PRIMERenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": "Level_2"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": "EDENRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": "EDENRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": "Level_3"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": "DEFAULTRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": "DEFAULTRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": "Level_4"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": "PREFERREDRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": "PREFERREDRenew"
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Renewal",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": "Level_5"
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Transfer",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULTRenew"
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Upgrade",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "TERGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "SMPGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "ELEGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "COMGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "MYUGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "NABGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "SARGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "VauGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "GexaTrue"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "WABGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "AMEGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "EPCGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Switch",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "KWEGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "TERGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "SMPGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "ELEGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "COMGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "MYUGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "NABGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "SARGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "VauGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "GexaTrue"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "WABGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "AMEGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "EPCGEX"
+  },
+  {
+    "fact": {
+      "Action": "New_Move",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "KWEGEX"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Switch",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "MyGexa"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "EP"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "GexaEnergy.com"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": "DEFAULT"
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Texas Electricity Ratings"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Shop My Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Electricity Scout"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Compare Power"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "My Utilities"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Naba Energy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Sarsen Energy Group"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Vault Electricity"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Gexa True"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Watt Buy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Amos Electric"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "Electricity Club"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  },
+  {
+    "fact": {
+      "Action": "Additional_Move",
+      "Channel": {
+        "Name": "KiloWhatEnergy"
+      },
+      "Product": {
+        "Family": ""
+      }
+    },
+    "response": ""
+  }
+]
